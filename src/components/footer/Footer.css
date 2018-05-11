@@ -1,0 +1,28 @@
+.vertType {
+    color: white;
+    -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        font-family: Roboto;
+        font-size: .75em;
+}
+.left {
+    position: fixed;
+    left: 0;
+    bottom: 20;
+}
+.right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.scroll {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.twitter {
+    color: white;
+}
+

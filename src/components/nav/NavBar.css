@@ -1,0 +1,63 @@
+.logoType {
+    font-family: Roboto;
+    color: white;
+}
+
+.link {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding: 0 50px;
+    font-size: 13px;
+}
+
+nav {
+    align-items: center;
+    padding: 0 25px;
+    color: white;
+}
+
+.links-container{
+    display: flex;
+    width: 70%;
+    justify-content: center;
+}
+.logoType {
+    display: block;
+    margin-top: 25px;
+}
+
+.masthead {
+    width: 15%;
+    display: flex;
+}
+
+.myButton {
+	background-color:transparent;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family:"Roboto";
+    font-weight: 700;
+	font-size:12px;
+	padding:12px 28px;
+    text-decoration:none;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.subscribe {
+    width: 15%;
+    display: flex;
+    margin-left: 50px;
+}
+

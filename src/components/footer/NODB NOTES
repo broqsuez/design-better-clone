@@ -1,0 +1,6 @@
+-create react app
+-install express/body-parser/cors/axios
+-create server dir with index.js in it.
+-create controllers directory
+-install server, listen on port and run nodemon
+you need proxy in your package.json

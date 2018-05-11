@@ -1,0 +1,75 @@
+.heroLogo {
+    height: 15vh;
+    margin-top: 85px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.heroText {
+    font-size: 3.5em;
+    font-family: "Roboto";
+    font-weight: 700;
+    color: white;
+}
+
+.text-container {
+    display: flex;
+    justify-content: center;
+}
+
+.blurb {
+    display: flex;
+    justify-content: center;
+}
+
+.heroCopy {
+    font-family: Roboto;
+    font-weight: 300;
+    color: white;
+    width: 30vw;
+    margin-top: 20px;
+    line-height: 2em;
+    text-align: center;
+    font-size: 18px;
+}
+
+.mainCopy {
+    display: flex;
+    justify-content: center;
+}
+
+.explore {
+	background-color:#ffffff;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color: blue;
+    font-family:"Roboto";
+    font-weight: bold;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background-color:#ffffff;
+}
+.myButton:active {
+	position:relative;
+	top:20px;
+}
+
+.exploreBtn {
+    display: flex;
+    justify-content: center;
+    margin-top: 27px;
+}
+
+        
